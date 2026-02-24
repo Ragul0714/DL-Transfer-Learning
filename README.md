@@ -266,17 +266,20 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+<img width="1156" height="815" alt="image" src="https://github.com/user-attachments/assets/fa97bd91-0641-4a01-a53e-76de5127f462" />
+
 
 ## Confusion Matrix
+<img width="815" height="683" alt="image" src="https://github.com/user-attachments/assets/d8ee1f24-885d-485f-b284-74c2a6244abc" />
 
-Include confusion matrix here
 
 ## Classification Report
-Include classification report here
+<img width="738" height="317" alt="image" src="https://github.com/user-attachments/assets/32193c18-81a9-4ab3-a6cb-35aef460ba8b" />
+
 
 ### New Sample Data Prediction
 Include your sample input and output here
 
 ## RESULT
-Include your result here
+Thus, an image classification model was developed using transfer learning with the VGG19 architecture for the given dataset, achieving limited classification performance.
+
