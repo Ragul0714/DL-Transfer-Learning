@@ -278,7 +278,10 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="495" height="515" alt="image" src="https://github.com/user-attachments/assets/8cde752d-f8a2-4195-a34f-7c2e8802cd6e" />
+
+<img width="475" height="511" alt="image" src="https://github.com/user-attachments/assets/6af406b8-85d8-4720-98e0-f0d001f703ab" />
+
 
 ## RESULT
 Thus, an image classification model was developed using transfer learning with the VGG19 architecture for the given dataset, achieving limited classification performance.
