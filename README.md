@@ -4,7 +4,7 @@
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
 ## Problem Statement and Dataset
-Include the problem statement and Dataset
+<img width="1111" height="198" alt="image" src="https://github.com/user-attachments/assets/c7d84b82-54bb-4142-b7ce-99c987a8905f" />
 
 
 ## Neural Network Model
